@@ -44,12 +44,23 @@ cd ../client
 npm install
 npm start
 
-### 💬 Login Page
 
-![Login](./screenshots/)
+## 📷 Screenshots
 
-### 🗨️ Chatroom View
+### 1. Welcome Page
+![Welcome](./screenshots/Screenshot%20(129).png)
 
-![Chatroom](./screenshots/chatroom.png)
+### 2. Room Selection
+![Room Selection](./screenshots/Screenshot%20(130).png)
+
+### 3. Chatroom Interface
+![Chatroom](./screenshots/Screenshot%20(128).png)
+
+## 🛠️ How to Run Locally
+
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/your-username/react-chat-app.git
+   cd react-chat-app
 
 
