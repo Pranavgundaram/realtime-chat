@@ -47,14 +47,17 @@ npm start
 
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 ### 1. Welcome Page
-![Welcome](./screenshots/Screenshot%20(129).png)
+![Welcome Page](./screenshots/Screenshot%20(129).png)
 
 ### 2. Room Selection
 ![Room Selection](./screenshots/Screenshot%20(130).png)
 
 ### 3. Chatroom Interface
-./screenshots/Screenshots/Screenshot (128).png
+![Chatroom](./screenshots/Screenshot%20(128).png)
+
 
 ## 🛠️ How to Run Locally
 
