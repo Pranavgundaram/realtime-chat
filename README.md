@@ -48,7 +48,7 @@ npm start
 ## 📷 Screenshots
 
 ### 1. Welcome Page
-![Welcome Page](./Screenshots/Screenshot%20(129).png)
+![Welcome Page](Screenshot(129).png)
 
 ### 2. Room Selection
 ![Room Selection](./Screenshots/Screenshot%20(130).png)
