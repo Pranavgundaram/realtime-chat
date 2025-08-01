@@ -54,7 +54,7 @@ npm start
 ![Room Selection](./screenshots/Screenshot%20(130).png)
 
 ### 3. Chatroom Interface
-![Chatroom](./screenshots/Screenshot%20(128).png)
+./screenshots/Screenshots/Screenshot (128).png
 
 ## 🛠️ How to Run Locally
 
