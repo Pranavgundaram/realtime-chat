@@ -17,10 +17,10 @@ A clean, simple real-time chat application built with **React**, **TypeScript**,
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend        | Realtime | Styling |
-|----------|----------------|----------|---------|
-| React    | Node.js + Express | Socket.IO | Inline CSS in JSX |
-| TypeScript |               |          |         |
+| Frontend  | Backend            | Realtime  | Styling          |
+|-----------|--------------------|-----------|------------------|
+| React     | Node.js + Express  | Socket.IO | Inline CSS (JSX) |
+| TypeScript |                    |           |                  |
 
 ---
 
@@ -31,36 +31,77 @@ A clean, simple real-time chat application built with **React**, **TypeScript**,
 ```bash
 git clone https://github.com/your-username/realtime-chat.git
 cd realtime-chat
+```
 
 ### 2. Start the server
 
+```bash
 cd server
 npm install
 node index.js
+```
 
 ### 3. Start the client
 
+```bash
 cd ../client
 npm install
 npm start
+```
 
+---
 
 ## 📷 Screenshots
 
 ### 1. Welcome Page
-![Welcome](./screenshots/Screenshot%20(129).png)
+![Welcome](./Screenshots/home-screen.png)
 
 ### 2. Room Selection
-![Room Selection](./screenshots/Screenshot%20(130).png)
+![Room Selection](./Screenshots/rooms-screen.png)
 
 ### 3. Chatroom Interface
-![Chatroom](./screenshots/Screenshot%20(128).png)
+![Chatroom](./Screenshots/chat-window.png)
+
+---
 
 ## 🛠️ How to Run Locally
 
-1. **Clone the Repo**
+1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/react-chat-app.git
-   cd react-chat-app
+   git clone https://github.com/your-username/realtime-chat.git
+   cd realtime-chat
+   ```
 
+2. Start the backend server  
+   ```bash
+   cd server
+   npm install
+   node index.js
+   ```
 
+3. Start the frontend app  
+   ```bash
+   cd ../client
+   npm install
+   npm start
+   ```
+
+Now open your browser at [http://localhost:3000](http://localhost:3000) and start chatting.
+
+---
+
+## 📁 Folder Structure
+
+```
+realtime-chat/
+├── client/             # React + TypeScript frontend
+├── server/             # Express + Socket.IO backend
+├── Screenshots/        # UI screenshots for README
+└── README.md
+```
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
