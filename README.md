@@ -54,6 +54,7 @@ npm start
 ## 📷 Screenshots
 
 ### 1. Welcome Page
+
 ![Welcome](./Screenshots/home-screen.png)
 
 ### 2. Room Selection
@@ -63,6 +64,7 @@ npm start
 ![Chatroom](./Screenshots/chat-window.png)
 
 ---
+
 
 ## 🛠️ How to Run Locally
 
